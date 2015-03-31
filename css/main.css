@@ -1,0 +1,27 @@
+
+#content {
+    position: absolute;
+    top: 0px;
+    height: calc(100% - 75px);
+    left: 0px;
+    width: calc(100% - 300px);
+    background-color: red;
+}
+
+#statics {
+    position: absolute;
+    bottom: 0px;
+    left: 0px;
+    height: 75px;
+    width: calc(100% - 300px);
+    background-color: green;
+}
+
+#sidebar {
+    position: absolute;
+    right: 0px;
+    top: 0px;
+    width: 300px;
+    height: 100%;
+    background-color: blue;
+}
